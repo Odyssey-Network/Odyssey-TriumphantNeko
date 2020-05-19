@@ -1,0 +1,8 @@
+name: TriumphantNeko
+version: "1.0"
+main: network.theodyssey.triumphantneko.Main
+api-version: "1.12"
+commands:
+  uwu:
+    description: "uwu"
+    usage: "/uwu"
